@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  },
+  "name": "tc-scripts",
+  "version": "1.0.0",
+  "description": "Scripts for tw by tc",
+  "main": "index.js",
+  "scripts": {
+    "barb-plower": "node scripts/barb-plower.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MatusPosypanka/tc-scripts"
+  },
+  "keywords": [
+    "tw-scripts"
+  ],
+  "author": "Posy",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/MatusPosypanka/tc-scripts/issues"
+  },
+  "homepage": "https://github.com/MatusPosypanka/tc-scripts#readme"
+}
